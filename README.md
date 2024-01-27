@@ -32,5 +32,9 @@ The `data/` directory contains the dataset used for the ETL process. This datase
 - AWS CLI
 - An AWS account with necessary permissions to create and manage EMR clusters
 
+## Comprehensive Step by Step interactive guide
+It was not only accomplishing the project but gaining a deep understanding as well. The better way to learn is explaining it to others, that's why I created this detailed step by step guide, which followed in strict order ensure a very straight forward performance.
+I added many comments and explanations as well. Hope you find it all useful.
+
 ## Acknowledgements:
 This project was inspired by [airscholar's RealtimeStreamingEngineering](https://github.com/airscholar/RealtimeStreamingEngineering#) and posible following the great explanations of Yusug Ganiyu
